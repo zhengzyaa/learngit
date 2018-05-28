@@ -3,3 +3,5 @@ fffff
 dev branch
 
 git push origin dev
+
+learngit dev push origin
