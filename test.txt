@@ -4,4 +4,8 @@ dev branch
 
 git push origin dev
 
-learngit dev push origin
+
+ dev push origin
+
+learngit and gitskill  conflict solve dev push origin
+
