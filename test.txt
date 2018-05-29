@@ -9,3 +9,5 @@ git push origin dev
 
 learngit and gitskill  conflict solve dev push origin
 
+git commit -am
+
